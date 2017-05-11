@@ -1,6 +1,8 @@
 # Study case for students --------------------------------
 # Simple Cross mutliplication table for python learning
 
+# Easy set for starting lesson
+
 def print_table(nb) :
 
     index = 1
